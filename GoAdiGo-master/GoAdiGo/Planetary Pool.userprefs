@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets\materials\Shaders\Warp.shader">
+    <Files>
+      <File FileName="assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="assets\Scripts\GravityController.cs" Line="1" Column="1" />
+      <File FileName="assets\materials\Shaders\BlackHole.shader" Line="1" Column="1" />
+      <File FileName="assets\materials\Shaders\Blob.shader" Line="1" Column="1" />
+      <File FileName="assets\materials\Shaders\HoleGlow.shader" Line="1" Column="1" />
+      <File FileName="assets\materials\Shaders\Planet.shader" Line="1" Column="1" />
+      <File FileName="assets\materials\Shaders\Warp.shader" Line="11" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
